@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Activity1</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">Select</string>
+    <string name="female">女</string>
+    <string name="male">男</string>
+    <string name="car">赛车</string>
+    <string name="bike">骑车</string>
+
+</resources>

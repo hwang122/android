@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Activity5</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">Welcome!</string>
+    <string name="btn1">Download Text</string>
+    <string name="btn2">Download File</string>
+
+</resources>

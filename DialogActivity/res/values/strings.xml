@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DialogActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">This is first Activity!</string>
+    <string name="text2">This is second Activity!</string>
+    <string name="button">Click</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_third">ThirdActivity</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teachers>
+    <teacher id="1">
+       <name>bauble</name>
+       <sex>男</sex>
+       <subject>数学</subject>
+    </teacher>
+    <teacher id="2">
+       <name>allorry</name>
+       <sex>男</sex>
+       <subject>英语</subject>
+    </teacher>
+    <teacher id="3">
+       <name>lily</name>
+       <sex>女</sex>
+       <subject>语文</subject>
+    </teacher>
+</teachers>

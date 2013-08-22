@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WIFITest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">Open WIFI</string>
+    <string name="stop">Stop WIFI</string>
+    <string name="check">Check WIFI</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SaxActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">Welcome!</string>
+    <string name="btn1">开始解析XML</string>
+
+</resources>

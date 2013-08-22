@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sqllite</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">Welcome</string>
+    <string name="btn1">Create Database</string>
+    <string name="btn2">Update Database</string>
+    <string name="btn3">insert</string>
+    <string name="btn4">update</string>
+    <string name="btn5">query</string>
+
+</resources>
